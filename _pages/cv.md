@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download full PDF version [here]("https://philipspechler.github.io/files/Philip_Spechler_CV_October2018.pdf")
+
 Education
 ======
 * B.A. University of Pittsburgh, 2010
