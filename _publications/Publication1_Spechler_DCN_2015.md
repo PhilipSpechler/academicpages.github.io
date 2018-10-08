@@ -3,7 +3,7 @@ title: "Cannabis use in early adolescence: Evidence of amygdala hypersensitivity
 collection: publications
 permalink: /publication/Publication1_Spechler_DCN_2015
 excerpt: '14 year olds who have ever used cannabis showed higher amygdalar activation to angry faces during fMRI'
-date: 2015
+date: 2015-12-01
 venue: 'Developmental Cognitive Neuroscience'
 paperurl: 'http://philipspechler.github.io/files/Spechler_etal_DCN_2015.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
