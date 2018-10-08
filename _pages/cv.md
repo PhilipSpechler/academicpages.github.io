@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
 Download full PDF version: <a href="https://philipspechler.github.io/files/Philip_Spechler_CV_October2018.pdf"> Click here!</a>
 
 Education
