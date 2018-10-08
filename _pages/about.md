@@ -16,5 +16,5 @@ Hello, World!
 science</a>. I work in the NERVE (Neuroimaging Research Vermont) lab with Dr. Hugh Garavan.</p>
 <p>As part of the <a href="http://www.med.uvm.edu/behaviorandhealth/home">vermont center on behavior and health</a>, I use human neuroimaging to study the neural basis of psychiatric problems, with a focus on substance abuse in adolescence.</p>
 <p>I have a keen interest in machine learning approaches to neuroimaging research, and have worked on large datasets from the
-<a href="www.imagen-europe.com">the IMAGEN project</a>, <a href="http://enigma.ini.usc.edu/ongoing/enigma-addiction-working-group/">ENIGMA-Addiction</a>, and <a href="https://abcdstudy.org">ABCD.</a></p>
+<a href="https://www.imagen-europe.com">the IMAGEN project</a>, <a href="http://enigma.ini.usc.edu/ongoing/enigma-addiction-working-group/">ENIGMA-Addiction</a>, and <a href="https://abcdstudy.org">ABCD.</a></p>
 </div>
