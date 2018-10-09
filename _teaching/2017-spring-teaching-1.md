@@ -8,6 +8,7 @@ date: 2017-01-01 -- 2017-01-05
 location: "Burlington, Vermont"
 ---
 
-# Course Description
-Introduction to neuroimaging research, applications, and analysis (using SPM software).  
+### Course Description
+Introduction to neuroimaging research, applications, and analysis (in SPM).  
+
 Duties include assisting professor with lectures, leading recitations, exam preparation, grading assignments, and analysis help.
