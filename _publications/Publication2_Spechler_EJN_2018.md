@@ -1,4 +1,3 @@
-
 ---
 title: "Cannabis use in early adolescence: Evidence of amygdala hypersensitivity to signals of threat"
 collection: publications
