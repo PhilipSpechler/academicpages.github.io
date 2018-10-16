@@ -4,7 +4,9 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please see <a href="https://philipspechler.github.io/files/Philip_Spechler_CV_October2018.pdf"> my CV</a> for complete publication record  
+Please see my CV for complete publication record:<a href="https://philipspechler.github.io/files/Philip_Spechler_CV_October2018.pdf"> 
+Click Here </a>  
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
