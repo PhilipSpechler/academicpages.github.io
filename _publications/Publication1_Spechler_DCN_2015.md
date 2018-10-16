@@ -2,7 +2,7 @@
 title: "Cannabis use in early adolescence: Evidence of amygdala hypersensitivity to signals of threat"
 collection: publications
 permalink: /publication/Publication1_Spechler_DCN_2015
-excerpt: '14 year olds endorsing any lifetime cannabis use showed higher amygdalar activation to angry faces during fMRI'
+excerpt: 'Lay Summary: 14 year olds endorsing any lifetime cannabis use showed higher amygdalar activation to angry faces during fMRI'
 date: 2015-12-01
 venue: 'Developmental Cognitive Neuroscience'
 paperurl: 'http://philipspechler.github.io/files/Spechler_etal_DCN_2015.pdf'
@@ -18,7 +18,7 @@ cortex did not discriminate between the two face conditions, but did differ in c
 with any psychiatric symptomology. Given the high density of cannabinoid receptors in the amygdala, our findings suggest cannabis use in 
 early adolescence is associated with hypersensitivity to signals of threat. Hypersensitivity to negative affect in adolescence may place 
 the subject at-risk for mood disorders in adulthood.</div>  
-
+  
 [Link to Journal Here](https://www.sciencedirect.com/science/article/pii/S1878929315000857)
 
 Recommended citation:  
