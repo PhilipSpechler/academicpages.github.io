@@ -1,5 +1,5 @@
 ---
-title: "2. The initiation of cannabis use in adolescence is predicted by sex-specific psychosocial and neurobiological features"
+title: "The initiation of cannabis use in adolescence is predicted by sex-specific psychosocial and neurobiological features"
 collection: publications
 permalink: /publication/Publication2_Spechler_EJN_2018
 excerpt: 'Biobehavioral data collected at age 14 predicts the initiaion of cannabis use by age 16'
