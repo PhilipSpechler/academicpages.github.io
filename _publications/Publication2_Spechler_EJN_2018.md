@@ -6,7 +6,6 @@ excerpt: 'Biobehavioral data collected at age 14 predicts the initiaion of canna
 date: 2018-06-01
 venue: 'European Journal of Neuroscience'
 paperurl: 'http://philipspechler.github.io/files/Spechler_etal_EJN_2018.pdf'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 **Abstract**:
 <div style="text-align: justify">Cannabis use initiated during adolescence might precipitate negative consequences in adulthood. Thus, 
