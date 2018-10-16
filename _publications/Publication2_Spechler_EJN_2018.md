@@ -1,5 +1,5 @@
 ---
-title: "Cannabis use in early adolescence: Evidence of amygdala hypersensitivity to signals of threat"
+title: "2. The initiation of cannabis use in adolescence is predicted by sex-specific psychosocial and neurobiological features"
 collection: publications
 permalink: /publication/Publication2_Spechler_EJN_2018
 excerpt: 'Biobehavioral data collected at age 14 predicts the initiaion of cannabis use by age 16'
@@ -11,7 +11,7 @@ venue: 'European Journal of Neuroscience'
 
 
 **Abstract**:
-<div style="text-align: justify"> Cannabis use initiated during adolescence might precipitate negative consequences in adulthood. Thus, 
+<div style="text-align: justify">Cannabis use initiated during adolescence might precipitate negative consequences in adulthood. Thus, 
 predicting adolescent cannabis use prior to any exposure will inform the aetiology of substance abuse by disentangling predictors from 
 consequences of use. In this prediction study, data were drawn from the IMAGEN sample, a longitudinal study of adolescence. All selected 
 participants (n = 1,581) were cannabis‐naïve at age 14. Those reporting any cannabis use (out of six ordinal use levels) by age 16 were 
@@ -24,6 +24,7 @@ males and females exhibited distinct brain predictors that failed to predict use
 independent samples of same‐sex participants. Collapsed across sex, genetic variation on catecholamine and opioid receptors marginally 
 predicted use. Using machine learning techniques applied to a large multimodal dataset, we identified a risk profile containing 
 psychosocial and sex‐specific brain prognostic markers, which were likely to precede and influence cannabis initiation.</div>
+
 
 [Link to Journal Here](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.13989)
 
