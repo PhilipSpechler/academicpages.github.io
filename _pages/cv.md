@@ -10,9 +10,9 @@ Download full PDF version: <a href="https://philipspechler.github.io/files/Phili
 
 Education
 ======
-* B.A. University of Pittsburgh, 2010
-* M.A. University of Vermont, 2016
 * Ph.D University of Vermont, 2019 (expected)
+* M.A. University of Vermont, 2016
+* B.A. University of Pittsburgh, 2010
 
 Work experience
 ======
