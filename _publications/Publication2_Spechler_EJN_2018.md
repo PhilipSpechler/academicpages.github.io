@@ -8,8 +8,6 @@ venue: 'European Journal of Neuroscience'
 paperurl: 'http://philipspechler.github.io/files/Spechler_etal_EJN_2018.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-
 **Abstract**:
 <div style="text-align: justify">Cannabis use initiated during adolescence might precipitate negative consequences in adulthood. Thus, 
 predicting adolescent cannabis use prior to any exposure will inform the aetiology of substance abuse by disentangling predictors from 
@@ -23,11 +21,11 @@ predicted use as indicated by satisfactory prediction error statistics, and cont
 males and females exhibited distinct brain predictors that failed to predict use in the opposite sex or predict binge drinking in 
 independent samples of same‐sex participants. Collapsed across sex, genetic variation on catecholamine and opioid receptors marginally 
 predicted use. Using machine learning techniques applied to a large multimodal dataset, we identified a risk profile containing 
-psychosocial and sex‐specific brain prognostic markers, which were likely to precede and influence cannabis initiation.</div>
-
+psychosocial and sex‐specific brain prognostic markers, which were likely to precede and influence cannabis initiation.</div>  
 
 [Link to Journal Here](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ejn.13989)
 
-Recommended citation: Spechler, P. A., Allgaier, N., Chaarani, B., Whelan, R., Watts, R., Orr, C., ... Garavan, H. & the IMAGEN Consortium 
+Recommended citation:  
+Spechler, P. A., Allgaier, N., Chaarani, B., Whelan, R., Watts, R., Orr, C., ... Garavan, H. & the IMAGEN Consortium 
 (2018). The Initiation of Cannabis Use in Adolescence is Predicted by Sex‐Specific Psychosocial and Neurobiological Features. European 
 journal of neuroscience.
