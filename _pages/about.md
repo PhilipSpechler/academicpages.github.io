@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**This Page is Currently Under Construction!**
-
-Hello, World!
+**Hello, World!**
 
 <div style="text-align: justify">
-<p>I am a Ph.D student in the departments of psychiatry, and <a href="https://www.uvm.edu/cas/psychology">psychological
+<p>I am a Ph.D student at the University of Vermont in the departments of psychiatry, 
+and <a href="https://www.uvm.edu/cas/psychology">psychological
 science</a>. I work in the NERVE lab (Neuroimaging Research Vermont) with Dr. Hugh Garavan.</p>
 <p>As part of the <a href="http://www.med.uvm.edu/behaviorandhealth/home">Vermont Center on Behavior and Health</a>, I use human
 neuroimaging to study the neural basis of psychiatric problems, with a focus on substance abuse in adolescence.</p>
