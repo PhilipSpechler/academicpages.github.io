@@ -13,7 +13,7 @@ I dabble quite a bit in computer programming (mostly python & some bash) and hav
 just a sampling of what I put up on my github.  
 * Wrote a little command line tool to quickly display info about csvfiles.
   * Make wondering what's inside all your data matrices <a href="https://github.com/PhilipSpechler/csvnome">a thing of the past.</a>.
-* Set up neuroimaging processing streams (HCP pipelines) on the <a hrefs=https://www.uvm.edu/vacc>uvm high performance computing cluster
+* Set up neuroimaging processing streams (HCP pipelines) on the <a hrefs="https://www.uvm.edu/vacc">uvm high performance computing cluster
 </a>.
   * Check out <a href="https://github.com/PhilipSpechler/fMRI-HeadMotion-Checker">this script</a> that piggy backs of the HCP pipelines to 
   give you fMRI headmotion estimates and nice graphs.  
@@ -47,7 +47,3 @@ observations for one sex, but failed to predict use in the other sex or predict 
 
 ## Cigarette Use in Adults & Vulnerable Populations
 *coming soon*
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
