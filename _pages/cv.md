@@ -10,7 +10,7 @@ Download full PDF version: <a href="https://philipspechler.github.io/files/Phili
 
 ## Education
 * Ph.D University of Vermont, 2019 (expected)
-* M.A. University of Vermont, 2016
+* M.A. University of Vermont, 2017
 * B.A. University of Pittsburgh, 2010
 
 ## First Authored Publications
