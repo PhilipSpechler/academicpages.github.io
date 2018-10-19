@@ -37,12 +37,13 @@ observations for one sex, but failed to predict use in the other sex or predict 
 
 ## Cigarette Use in Adults & Vulnerable Populations
 *coming soon*
+[csvnome](https://github.com/PhilipSpechler/csvnome)
 
 ## Programming Projects
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
 just a sampling of what I put up on my github.  
 * Wrote a little command line tool to quickly display info about csvfiles.
-  * Make wondering what's inside all your data matrices <a href="https://github.com/PhilipSpechler/csvnome">a thing of the past.</a>.
+  * Make wondering what's inside all your data matrices <a href="https://github.com/PhilipSpechler/csvnome">a thing of the past</a>.
 * Set up neuroimaging processing streams (HCP pipelines) on the <a hrefs="https://www.uvm.edu/vacc">uvm high performance computing cluster
 </a>.
   * Check out <a href="https://github.com/PhilipSpechler/fMRI-HeadMotion-Checker">this script</a> that piggy backs of the HCP pipelines to 
