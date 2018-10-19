@@ -15,7 +15,7 @@ My time in grad school has been spent working on neuroimaging and data scientifi
 ## Cannabis Use in Adolescence
 1.) What is different about the brains of teens who use cannabis compared to teens who don't?
 
-To answer this question, we selected teens (age 14) from the IMAGEN project who reported using any amount of cannabis by age 14. We then 
+To answer this question, we selected teenagers from the IMAGEN project who reported using any amount of cannabis by age 14. We then 
 selected a matched group of teens who never used cannabis. We examined what their brains looked like while processing emotional stimuli 
 while undergoing an fMRI brain scan. When comparing the two groups, we found the brains of the cannabis users 
 reacted differently when viewing angry and neutral faces.
