@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Projects"
 permalink: /research/
 author_profile: true
@@ -36,16 +36,16 @@ observations for one sex, but failed to predict use in the other sex or predict 
 <a href="https://philipspechler.github.io/publication/Publication2_Spechler_EJN_2018">Click here to read the paper!</a>
 
 ## Cigarette Use in Adults & Vulnerable Populations
-*coming soon*
-[csvnome](https://github.com/PhilipSpechler/csvnome)
+*coming soon*  
+[csvnome]("https://github.com/PhilipSpechler/csvnome")
 
 ## Programming Projects
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
 just a sampling of what I put up on my github.  
 * Wrote a little command line tool to quickly display info about csvfiles.
   * Make wondering what's inside all your data matrices <a href="https://github.com/PhilipSpechler/csvnome">a thing of the past</a>.
-* Set up neuroimaging processing streams (HCP pipelines) on the <a hrefs="https://www.uvm.edu/vacc">uvm high performance computing cluster
-</a>.
+* Set up neuroimaging processing streams (HCP pipelines) on the <a href="https://www.uvm.edu/vacc">uvm high performance computing 
+  cluster</a>.
   * Check out <a href="https://github.com/PhilipSpechler/fMRI-HeadMotion-Checker">this script</a> that piggy backs of the HCP pipelines to 
   give you fMRI headmotion estimates and nice graphs.  
 * Wrote this python wrapper around AFNI to help partially <a href="https://github.com/PhilipSpechler/Visual_QC_for_MRI_Datasets">automate 
