@@ -10,11 +10,11 @@ author_profile: true
 
 Hello, World of Research!
 
-<div style="text-align: justify">
-<p>
 My time in grad school has been spent working on neuroimaging and data scientific approaches to substance abuse in vulnerable populations.
 
 ## Cannabis Use in Adolescence
+<div style="text-align: justify">
+<p>
 1.) What is different about the brains of teens who use cannabis compared to teens who don't?
 
 To answer this question, we selected teenagers from the IMAGEN project who reported using any amount of cannabis by age 14. We then 
@@ -24,7 +24,10 @@ reacted differently when viewing angry and neutral faces.
 
 Conclusions: Teens who use cannabis show higher reactivity in a key brain region involved in threat monitoring (the amygdala).  
 <a href="https://philipspechler.github.io/publication/Publication1_Spechler_DCN_2015">Click here to read the paper!</a>
+</p></div>
 
+<div style="text-align: justify">
+<p>
 2.) Why do some teens use cannabis and others don't? Is there something about their brains, genetics, or behaviors that might predict 
 their cannabis use before it even begins? 
 
@@ -36,11 +39,14 @@ the other. A similar attempt was made to see if the predictors of cannabis use g
 Conclusions: Machine learning methods uncovered a sparse set of sex-specific predictors of cannabis use that predicted out of sample 
 observations for one sex, but failed to predict use in the other sex or predict use in a related sample of same-sex binge drinkgers. 
 <a href="https://philipspechler.github.io/publication/Publication2_Spechler_EJN_2018">Click here to read the paper!</a>
+</p></div>
 
 ## Cigarette Use in Adults & Vulnerable Populations
 *coming soon*  
 
 ## Programming Projects
+<div style="text-align: justify">
+<p>
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
 just a sampling of what I put up on my github.  
 * Wrote a little command line tool to quickly display info about csvfiles.
