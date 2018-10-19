@@ -59,12 +59,10 @@ reduction in smoking behaviors.
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
 just a sampling of what I put up on my github.  
 <ul>
-<li>Wrote a little command line tool to quickly display info about csvfiles.
-    <ul><li>Make wondering what's inside all your data matrices <a href="https://github.com/PhilipSpechler/csvnome">a thing of the past</a>
-        </li></ul>
+  <li>Wrote a little <a href="https://github.com/PhilipSpechler/csvnome">command line tool</a> to quickly display info about csvfiles.
+    <ul><li>Make wondering what's inside all your data matrices a thing of the past</li></ul>
 </li>
-<li>Set up neuroimaging processing streams (HCP pipelines) on the <a href="https://www.uvm.edu/vacc">uvm high performance computing 
-  cluster</a>.
+<li>Set up neuroimaging processing streams (HCP pipelines) on the <a href="https://www.uvm.edu/vacc">UVM computing cluster</a>.
   <ul><li>Check out <a href="https://github.com/PhilipSpechler/fMRI-HeadMotion-Checker">this script</a> that piggy backs of the HCP
     pipelines to give you fMRI headmotion estimates and nice graphs.
     </li></ul>
