@@ -10,7 +10,8 @@ author_profile: true
 
 Hello, World of Research!
 
-My time in grad school has been spent working on neuroimaging and data scientific approaches to substance abuse in vulnerable populations.
+My time in grad school has been spent working on neuroimaging and data scientific approaches to substance abuse research.
+Here are some projects that kept me busy, and some links to my github for some of my code I've developed along the way.
 
 ## Cannabis Use in Adolescence
 <div style="text-align: justify">
