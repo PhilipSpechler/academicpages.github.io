@@ -36,7 +36,7 @@ the other. A similar attempt was made to see if the predictors of cannabis use g
 <p>Conclusions: Machine learning methods uncovered a sparse set of sex-specific predictors of cannabis use that predicted out of sample 
 observations for one sex, but failed to predict use in the other sex or predict use in a related sample of same-sex binge drinkers. 
 <a href="https://philipspechler.github.io/publication/Publication2_Spechler_EJN_2018">Click here to read the paper!</a></p>
-</p></div>
+</div>
 
 ## Cigarette Use in Adults & Vulnerable Populations
 <div style="text-align: justify">
