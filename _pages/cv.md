@@ -44,9 +44,14 @@ Neuroimaging Differences in Nicotine Abstinent Smokers Versus Satiated Smokers. 
   * Thomas Jefferson University
   * Lab Director: Joseph Tracy, Ph.D  
   
-## Research and Technical Skills
-* Neuroimaging study design & analysis (Prefer AFNI & FSL).
-* Running fMRI sessions and managing research staff.
+### Technical Skills
+* Neuroimaging data analysis (Prefer AFNI & FSL, HCP pipelines).
 * Prefer programming in python, but also work in bash & matlab.
-* Experience with parametric, non-parametric, and statistical learning methods applied to multi-domain data.
+* Experience with parametric, non-parametric, and statistical learning methods applied to multi-modal data.
+  * Machine learning experiences with logistic regression with elastic-net regularization, decssion trees, and random forrests.
 * Prefer mac or linux OS. Experience with data servers and computing clusters. 
+
+#### Research Skills
+* Neuroimaging and behavioral study design 
+* Participant recruitment and scheduling
+* Running fMRI sessions and managing research staff.
