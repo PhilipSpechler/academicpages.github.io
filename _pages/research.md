@@ -15,43 +15,38 @@ My time in grad school has been spent working on neuroimaging and data scientifi
 ## Cannabis Use in Adolescence
 <div style="text-align: justify">
 <p>
-1.) What is different about the brains of teenagers who use cannabis?
-
-To answer this question, we selected teenagers from the IMAGEN project who reported using any amount of cannabis by age 14. We then 
+  1.) What is different about the brains of teenagers who use cannabis?</p>
+<p>To answer this question, we selected teenagers from the IMAGEN project who reported using any amount of cannabis by age 14. We then 
 selected a matched group of teens who never used cannabis. We examined what their brains looked like while processing emotional stimuli 
 while undergoing an fMRI brain scan. When comparing the two groups, we found the brains of the cannabis users 
-reacted differently when viewing angry and neutral faces.
-
-Conclusions: Teens who use cannabis show higher reactivity in a key brain region involved in threat monitoring (the amygdala).  
-<a href="https://philipspechler.github.io/publication/Publication1_Spechler_DCN_2015">Click here to read the paper!</a>
-</p></div>
+reacted differently when viewing angry and neutral faces.</p>
+<p>Conclusions: Teens who use cannabis show higher reactivity in a key brain region involved in threat monitoring (the amygdala).  
+<a href="https://philipspechler.github.io/publication/Publication1_Spechler_DCN_2015">Click here to read the paper!</a></p>
+</div>
 
 <div style="text-align: justify">
 <p>
 2.) Why do some teenagers use cannabis and others don't? Is there something about their brains, genetics, or behaviors that might predict 
-their cannabis use before it even begins? 
-
-To answer this question, we selected teens from the IMAGEN project who were cannabis-naive at age 14 and then go on to report using 
+their cannabis use before it even begins? </p>
+<p>To answer this question, we selected teens from the IMAGEN project who were cannabis-naive at age 14 and then go on to report using 
 cannabis by age 16. We then analyzed a massive ammount of data collected at their age 14 assessment to see if anything might
 predict their cannabis use later in life. Males and females were analyzed separately, and then the predictors for one sex were tested on 
 the other. A similar attempt was made to see if the predictors of cannabis use generalize to other drug use behaviors (binge drinking).
-
-Conclusions: Machine learning methods uncovered a sparse set of sex-specific predictors of cannabis use that predicted out of sample 
-observations for one sex, but failed to predict use in the other sex or predict use in a related sample of same-sex binge drinkgers. 
-<a href="https://philipspechler.github.io/publication/Publication2_Spechler_EJN_2018">Click here to read the paper!</a>
+</p>
+<p>Conclusions: Machine learning methods uncovered a sparse set of sex-specific predictors of cannabis use that predicted out of sample 
+observations for one sex, but failed to predict use in the other sex or predict use in a related sample of same-sex binge drinkers. 
+<a href="https://philipspechler.github.io/publication/Publication2_Spechler_EJN_2018">Click here to read the paper!</a></p>
 </p></div>
 
 ## Cigarette Use in Adults & Vulnerable Populations
 <div style="text-align: justify">
 <p>
-  
-1.Does varying the amount of nicotine in cigarettes have an effect on the brain?
-
-We are currently collecting data for a large study on tobacco regulatory science, funded by the FDA. In this study of three specific 
+  1.Does varying the amount of nicotine in cigarettes have an effect on the brain?</p>
+<p>We are currently collecting data for a large study on tobacco regulatory science, funded by the FDA. In this study of three specific 
 vulnerable populations (low-SES women, opioid use disorder, and mood disorders), we will be giving fMRIs to individuals before and after 
 12-weeks of smoking very low nicotine content cigarettes. We hypothesize to identify changes in the brain that correlate with a 
-reduction in smoking behaviors. 
-</p></div>
+reduction in smoking behaviors.</p>
+</div>
 
 ## Programming Projects
 <div style="text-align: justify">
