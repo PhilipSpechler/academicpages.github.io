@@ -37,7 +37,7 @@ observations for one sex, but failed to predict use in the other sex or predict 
 
 ## Cigarette Use in Adults & Vulnerable Populations
 *coming soon*  
-[csvnome]("https://github.com/PhilipSpechler/csvnome")
+[csvnome](https://github.com/PhilipSpechler/csvnome)
 
 ## Programming Projects
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
