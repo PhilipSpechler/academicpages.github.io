@@ -10,6 +10,8 @@ author_profile: true
 
 Hello, World of Research!
 
+<div style="text-align: justify">
+<p>
 My time in grad school has been spent working on neuroimaging and data scientific approaches to substance abuse in vulnerable populations.
 
 ## Cannabis Use in Adolescence
@@ -20,7 +22,7 @@ selected a matched group of teens who never used cannabis. We examined what thei
 while undergoing an fMRI brain scan. When comparing the two groups, we found the brains of the cannabis users 
 reacted differently when viewing angry and neutral faces.
 
-Conclusions: Teens who use cannabis show higher reactivity in a key brain region involved in threat monitoring (the amygdala).
+Conclusions: Teens who use cannabis show higher reactivity in a key brain region involved in threat monitoring (the amygdala).  
 <a href="https://philipspechler.github.io/publication/Publication1_Spechler_DCN_2015">Click here to read the paper!</a>
 
 2.) Why do some teens use cannabis and others don't? Is there something about their brains, genetics, or behaviors that might predict 
@@ -37,7 +39,6 @@ observations for one sex, but failed to predict use in the other sex or predict 
 
 ## Cigarette Use in Adults & Vulnerable Populations
 *coming soon*  
-[csvnome](https://github.com/PhilipSpechler/csvnome)
 
 ## Programming Projects
 I dabble quite a bit in computer programming (mostly python & some bash) and have written scripts to do a million and one things. Here is 
@@ -52,3 +53,5 @@ just a sampling of what I put up on my github.
  visual QC</a> of large data sets.
   * Automatically displays brain scans and logs QC notes.
   * Makes visual QC a breeze for any and all staff members.
+</p>
+</div>
