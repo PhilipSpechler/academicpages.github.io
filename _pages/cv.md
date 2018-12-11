@@ -48,7 +48,7 @@ Neuroimaging Differences in Nicotine Abstinent Smokers Versus Satiated Smokers. 
 * Neuroimaging data analysis (Prefer AFNI & FSL, HCP pipelines).
 * Prefer programming in python, but also work in bash & matlab.
 * Experience with parametric, non-parametric, and statistical learning methods applied to multi-modal data.
-  * Machine learning experiences with logistic regression with elastic-net regularization, decssion trees, and random forrests.
+  * Machine learning experiences with logistic regression with elastic-net regularization, decsion trees, and random forests.
 * Prefer mac or linux OS. Experience with data servers and computing clusters. 
 
 #### Research Skills
