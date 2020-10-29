@@ -1,9 +1,9 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Philip Spechler"
+title                    : "Philip Spechler, Ph.D"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Ph.D Student @ the University of Vermont"
+description              : &description "Postdoc @ Laureate Institute for Brain Research"
 url                      : https://philipspechler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "philipspechler/philipspechler.github.io"
@@ -49,7 +49,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : PhilSpechler
 facebook:
   username               :
   app_id                 :
@@ -72,13 +72,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philip Spechler"
+  name             : "Philip Spechler, Ph.D"
   avatar           : "https://philipspechler.github.io/files/ps2018.jpg"
-  bio              : "Ph.D Student in Experimental Psychology"
-  location         : "Burlington, VT USA"
-  employer         : "University of Vermont"
+  bio              : "Postdoc in Computational Psychiatry"
+  location         : "Tulsa, OK USA"
+  employer         : "Laureate Institute for Brain Research"
   googlescholar    : "https://scholar.google.com/citations?user=sM7D5x0AAAAJ&hl=en"
-  email            : "pspechle@uvm.edu"
+  email            : "pspechler@laureateinstitute.org"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "PhilSpechler"
   vine             :
   weibo            :
   xing             :
