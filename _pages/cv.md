@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download full PDF version: <a href="https://philipspechler.github.io/files/Philip_Spechler_CV_2018.pdf"> Click here!</a>
+Download full PDF version: <a href="https://philipspechler.github.io/files/Philip_Spechler_CV_Oct2020.pdf"> Click here!</a>
 
 ## Education
 * Ph.D University of Vermont, 2019
