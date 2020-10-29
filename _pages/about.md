@@ -10,6 +10,9 @@ redirect_from:
 **Hello, World!**
 
 <div style="text-align: justify">
+
+<p>I am currently a postdoctoral research associate at the <a href="https://www.laureateinstitute.org">Laureate Institute for Brain Research</a>, where I work in the laboratory of Dr. Martin Paulus and study the relationship between cannabis use and brain and behavioral health.</p>
+
 <p>I completed my Ph.D at the University of Vermont in the departments of psychiatry, 
 and <a href="https://www.uvm.edu/cas/psychology">psychological
 science</a>. I worked in the NERVE lab (Neuroimaging Research Vermont) with Dr. Hugh Garavan.</p>
