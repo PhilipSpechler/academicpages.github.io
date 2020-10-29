@@ -9,7 +9,7 @@ redirect_from:
 Download full PDF version: <a href="https://philipspechler.github.io/files/Philip_Spechler_CV_2018.pdf"> Click here!</a>
 
 ## Education
-* Ph.D University of Vermont, 2019 (expected)
+* Ph.D University of Vermont, 2019
 * M.A. University of Vermont, 2017
 * B.A. University of Pittsburgh, 2010
 
